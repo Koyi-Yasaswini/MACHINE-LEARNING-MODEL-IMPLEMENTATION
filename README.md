@@ -1,14 +1,14 @@
 # MACHINE-LEARNING-MODEL-IMPLEMENTATION
 
-**Name**: ADIL SHAIKH
+**Name**: KOYI YASASWINI
 
 **Company**: CODETECH IT SOLUTIONS
 
-**ID**: CT08DJS
+**ID**: CT06DL988
 
 **Domain**: Python Programming
 
-**Duration**:12th December to 12th January
+**Duration**: 5th May,2025 to 20th June,2025
 
 **Mentor**: Neela Santhosh Kumar
 
